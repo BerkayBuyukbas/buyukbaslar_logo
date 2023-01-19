@@ -160,6 +160,8 @@ a {
   color: var(--black-color);
 }
 
+
+
 .header #menu-btn {
   display: none;
 }
@@ -241,6 +243,7 @@ a {
 }
 
 /*! menu end  */
+
 /*! about start  */
 .about .row {
   display: flex;
